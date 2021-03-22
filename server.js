@@ -73,5 +73,5 @@ const PORT = process.env.PORT || 3001
  * Start the server
  */
 app.listen(PORT, () => {
-    console.log(`App is listening on PORT ${PORT}`)
+    console.log(`App is listening at localhost on PORT ${PORT}`)
 })
